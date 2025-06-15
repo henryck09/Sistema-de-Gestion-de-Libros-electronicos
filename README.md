@@ -25,7 +25,6 @@ Descripción
 
 Modalidad de acceso (PDF, Online, Audiolibro, etc.)
 
-📋 Consultar libros registrados.
 
 
 🖥️ ¿Cómo Ejecutar el Sistema?
