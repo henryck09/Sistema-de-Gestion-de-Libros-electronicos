@@ -51,5 +51,6 @@ Fácil de extender con nuevas funcionalidades (por ejemplo, préstamo/devolució
 Seguridad básica implementada con validaciones de datos
 
 🎓 Conclusión
-Este proyecto demuestra cómo aplicar los principios de programación orientada a objetos, manejo de base de datos, diseño web moderno e integración backend-frontend usando Go y Bootstrap, logrando un sistema funcional, visualmente atractivo y técnicamente sólido.
+
+El desarrollo del Sistema de Gestión de Libros Electrónicos permitió aplicar de forma práctica los conocimientos adquiridos en programación orientada a objetos, manejo de bases de datos, diseño web y arquitectura de software. Utilizando el lenguaje Go como base del backend, junto con una interfaz moderna basada en Bootstrap, se logró construir una aplicación funcional, eficiente y visualmente atractiva.
 
