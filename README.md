@@ -1,42 +1,51 @@
 📘 Sistema de Gestión de Libros Electrónicos
 
-El Sistema de Gestión de Libros Electrónicos es una aplicación desarrollada en el lenguaje Go (Golang) que permite administrar eficientemente libros digitales a través de operaciones básicas como registro, visualización y organización de la información.
+Crear un sistema completo y funcional en el lenguaje Go que permita gestionar una biblioteca de libros electrónicos, con funcionalidades para agregar, listar, prestar, devolver y eliminar libros, todo accesible desde una interfaz web moderna, estilizada con Bootstrap.
 
-Este sistema ha sido construido aplicando los principios fundamentales de la programación orientada a objetos y las buenas prácticas de desarrollo de software, destacando:
+📑 Funcionalidades Principales
+Inicio amigable con fondo e imagen
 
-✅ Encapsulación de estructuras para proteger los datos.
+Listado de libros con detalles: ID, título, autor, descripción
 
-✅ Uso de interfaces para una mejor abstracción y escalabilidad.
+Agregar libros nuevos desde formulario web
 
-✅ Manejo de errores para garantizar la robustez del sistema.
+Eliminar libros existentes
 
-✅ Comentarios explicativos para facilitar el entendimiento del código.
+Editar detalles de un libro
 
+Botones para navegar entre páginas
 
-🧠 Funcionalidades del Sistema
+Validaciones y manejo de errores
 
-📥 Registrar libros electrónicos con campos como:
+🖼️ Interfaz de Usuario
+Pantalla de bienvenida con imagen de fondo
 
-ID del cliente
+Tipografía moderna y diseño profesional
 
-Nombre del libro
+Botón para "Ingresar al Sistema"
 
-Descripción
+Página de listado clara con botones para eliminar y editar
 
-Modalidad de acceso (PDF, Online, Audiolibro, etc.)
+Botón para regresar al inicio
 
+🖥️ Interacción Web
+Página principal: fondo con imagen, bienvenida e ingreso
 
+Listado: tabla con datos, botones para eliminar y editar
 
-🖥️ ¿Cómo Ejecutar el Sistema?
+Formulario agregar libro: campos para título, autor y descripción
 
-go run main.go
+Botón regresar: desde cualquier sección al inicio
 
+✅ Ventajas del Sistema
+100% hecho en lenguaje Go, ideal para backends robustos
 
-📦 Librerías utilizadas
+Interfaz limpia y moderna
 
-fmt y log para impresión y manejo de errores.
+Fácil de extender con nuevas funcionalidades (por ejemplo, préstamo/devolución)
 
-database/sql para trabajar con SQL.
+Seguridad básica implementada con validaciones de datos
 
-github.com/go-sql-driver/mysql para conectar con MySQL.
+🎓 Conclusión
+Este proyecto demuestra cómo aplicar los principios de programación orientada a objetos, manejo de base de datos, diseño web moderno e integración backend-frontend usando Go y Bootstrap, logrando un sistema funcional, visualmente atractivo y técnicamente sólido.
 
