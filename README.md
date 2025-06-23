@@ -3,6 +3,7 @@
 Crear un sistema completo y funcional en el lenguaje Go que permita gestionar una biblioteca de libros electrónicos, con funcionalidades para agregar, listar, prestar, devolver y eliminar libros, todo accesible desde una interfaz web moderna, estilizada con Bootstrap.
 
 📑 Funcionalidades Principales
+
 Inicio amigable con fondo e imagen
 
 Listado de libros con detalles: ID, título, autor, descripción
@@ -18,6 +19,7 @@ Botones para navegar entre páginas
 Validaciones y manejo de errores
 
 🖼️ Interfaz de Usuario
+
 Pantalla de bienvenida con imagen de fondo
 
 Tipografía moderna y diseño profesional
@@ -29,6 +31,7 @@ Página de listado clara con botones para eliminar y editar
 Botón para regresar al inicio
 
 🖥️ Interacción Web
+
 Página principal: fondo con imagen, bienvenida e ingreso
 
 Listado: tabla con datos, botones para eliminar y editar
@@ -38,6 +41,7 @@ Formulario agregar libro: campos para título, autor y descripción
 Botón regresar: desde cualquier sección al inicio
 
 ✅ Ventajas del Sistema
+
 100% hecho en lenguaje Go, ideal para backends robustos
 
 Interfaz limpia y moderna
